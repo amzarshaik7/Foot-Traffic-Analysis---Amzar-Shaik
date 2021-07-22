@@ -17,7 +17,7 @@ However, traditional methods do not mine demographic or granular data which can 
 
 ## 1.1. Problem Statement 
 
-![image](https://user-images.githubusercontent.com/87763082/126670251-886c9c31-0c13-496d-b24c-53ebc9b72e09.png)
+![image](https://user-images.githubusercontent.com/87763082/126674641-ed0c262a-ebf9-4c2c-ae3d-836ad6203421.png)
 
 ## 1.2. Objective 
 
