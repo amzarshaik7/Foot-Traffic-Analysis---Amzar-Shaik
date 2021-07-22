@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/87763082/126652516-eb6e2120-1c24-486b-b3f7-7ee268f85c29.png)
+![image](https://user-images.githubusercontent.com/87763082/126652641-53e34715-e0a1-4fdc-b0a1-9f3ceb9b12cf.png)
 
 # Table of Contents 
 1. Introduction 
@@ -7,7 +7,7 @@
 
 # 1. Introduction
 
-Foot Traffic Analysis or In-store Retail Analytics is a powerful market research mechanism that may be implemented to grow any retail business in any business environment (Central Business District (CBD), Cities or etc.)
+In-store Foot Traffic Analytics for Retail Stores is a powerful data-driven market research mechanism that may be implemented to grow your retail business in any environment (Central Business District (CBD), Cities, etc.)
 
 ## 1.1. Problem Statement 
 ## 1.2. Objective 
