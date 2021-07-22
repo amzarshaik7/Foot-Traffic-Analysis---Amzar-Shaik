@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/87763082/126637753-7250b799-2d23-47f7-a8e1-ab2ca835c060.png)
+![image](https://user-images.githubusercontent.com/87763082/126642724-9d74c436-ba12-4f53-893e-f9d44132813a.png)
 
 # Table of Contents 
 1. Introduction 
