@@ -13,7 +13,7 @@ Traditional methods to measure foot traffic which have been used in the past com
 1. Tally or Clicker Counting
 2. Security and Cameras Systems
 
-However, traditional methods do not mine demographic or granular data which can be used by modern and robust Machine Learning Models to create a Collective Consumer Potrait!
+However, traditional methods do not mine demographic or granular data which can be used by modern and robust Machine Learning Models to create a Collective Consumer Portrait!
 
 ## 1.1. Problem Statement 
 
