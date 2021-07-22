@@ -1,8 +1,14 @@
 # Table of Contents 
+1. Introduction 
+   1.1. Problem Statement 
+   1.2. Objective 
+2. Foot Traffic Analysis 
+   2.1. Methodology 
 
-# Problem Statement 
+# 1. Introduction
+## 1.1. Problem Statement 
+## 1.2. Objective 
 
-![image](https://user-images.githubusercontent.com/87763082/126636051-0694eaab-8f6a-45b8-9fcc-cd04b2cd8876.png)
+# 2. Foot Traffic Analysis 
+## 2.1. Methodology 
 
-
-# 
