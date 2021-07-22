@@ -17,11 +17,11 @@ However, traditional methods do not mine demographic or granular data which can 
 
 ## 1.1. Problem Statement 
 
-![image](https://user-images.githubusercontent.com/87763082/126678790-ac8c4771-116c-47f3-9668-e168632ebaa7.png)
+![image](https://user-images.githubusercontent.com/87763082/126679074-42886a8c-101b-4fcc-be0b-0b0dd986149d.png)
 
 ## 1.2. Objective 
 
-![image](https://user-images.githubusercontent.com/87763082/126678846-08dbbaff-33e6-45cb-aa8e-752634066aa4.png)
+![image](https://user-images.githubusercontent.com/87763082/126679042-8dbad9eb-b134-42f6-827d-81d6245d4db5.png)
 
 # 2. In-Store Retail Foot Traffic Analytics 
 ## 2.1. Methodology
