@@ -7,17 +7,17 @@
 
 # 1. Introduction
 
-In-store Foot Traffic Analytics for Retail Stores is a powerful data-driven market research mechanism that may be implemented to grow your retail business in any environment (eg. Central Business District (CBD), Cities, Towns, etc.).
+In-Store Foot Traffic Analytics for Retail Stores is a powerful data-driven market research mechanism that may be implemented to grow your retail business in any environment (eg. Central Business District (CBD), Cities, Towns, etc.).
 
 Traditional methods to measure foot traffic comprises of:
 1. Tally or Clicker Counting
 2. Security and Cameras
 
-However, traditional methods do not mine demographic or granular data which can be used by modern and robust methods to create a collective consumer data!
+However, traditional methods do not mine demographic or granular data which can be used by modern and robust methods to create a collective consumer potrait!
 
 ## 1.1. Problem Statement 
 
-
+![image](https://user-images.githubusercontent.com/87763082/126668974-c097a157-5e7e-45b8-927e-957ead613e24.png)
 
 ## 1.2. Objective 
 
