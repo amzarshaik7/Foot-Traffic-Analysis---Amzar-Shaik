@@ -48,7 +48,7 @@ Question is, how can one increase the sales of "selected items"?
 
 Having a single system to gather data will not provide reliable analysis. Thus, it is important to expand on several IoT equipment that will allow the Home Care Store make directed marketing decisions to increase sales of "selected items". 
 
-![image](https://user-images.githubusercontent.com/87763082/126790990-2ac5a5f4-47a4-4010-b6bb-c3af88cb4f67.png)
+![image](https://user-images.githubusercontent.com/87763082/126791095-1d6111a0-06dd-47c3-943b-978107e55ebf.png)
 
 # 4. Novice Summary 
 
