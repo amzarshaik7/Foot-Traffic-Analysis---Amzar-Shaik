@@ -35,7 +35,7 @@ A human/object detection system was designed to demonstrate the Traffic Period A
 
 ## 2.1. Methodology
 
-![image](https://user-images.githubusercontent.com/87763082/126786514-49563668-4dfd-4113-827c-017adfdc5a8a.png)
+![image](https://user-images.githubusercontent.com/87763082/126786634-979a7eba-dd61-4311-9dd3-21415198af9e.png)
 
 ## 2.2. Results (From Working System)
 
