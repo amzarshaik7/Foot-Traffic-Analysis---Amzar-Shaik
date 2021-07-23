@@ -38,6 +38,10 @@ This footfall analysis is designed to study the daily high and low traffic perio
 
 Question is, how can one increase the sales of "selected items"?
 
+What are "selected items"? 
+
+Selected items - Items that have the least amount of sales on a monthly. 
+
 ## 2.1. Methodology
 
 ![image](https://user-images.githubusercontent.com/87763082/126786689-f709cdf9-b2a2-4ecf-9040-21f50e0fce92.png)
