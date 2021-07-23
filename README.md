@@ -26,14 +26,6 @@ However, traditional methods do not mine granular data or provide a demographic 
 # 2. In-Store Retail Foot Traffic Analytics 
 ## 2.1. Methodology
 
-1. Zone Analytics 
-
-The use of thermal sensors to measure warm body count in-store and produce a demographic view of most visited zones of the store.  
-
-2. Dwell Time 
-3. Traffic Periods 
-4. Purchase Analytics
-
 ## 2.2. Working System
 
 # 3. Novice Recommendation 
