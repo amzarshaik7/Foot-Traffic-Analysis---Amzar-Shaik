@@ -3,7 +3,8 @@
 # Table of Contents 
 1. Introduction 
 2. In-Store Retail Foot Traffic Analytics
-3. Novice Recommendation 
+3. General Recommendation
+4. Novice Summary 
 
 # 1. Introduction
 
@@ -21,7 +22,7 @@ However, traditional methods do not mine granular data or provide a demographic 
 
 ## 1.2. Objective 
 
-![image](https://user-images.githubusercontent.com/87763082/126679042-8dbad9eb-b134-42f6-827d-81d6245d4db5.png)
+![image](https://user-images.githubusercontent.com/87763082/126788614-a63cb404-6976-4f8d-901a-0bf895addfb0.png)
 
 # 2. In-Store Retail Foot Traffic Analytics 
 As mentioned there are several types of Footfall Analysis as listed: 
@@ -31,12 +32,23 @@ As mentioned there are several types of Footfall Analysis as listed:
 3. Traffic Period Analytics 
 4. Customer Purchase Analytics 
 
-A human/object detection system was designed to demonstrate the Traffic Period Analytics of consumers in a Home Care Store using CCTV footage lasting 1.5 minutes. This footfall analysis is designed to study the daily high and low traffic periods in the Home Care Store. This analysis acts as a baseline for further investigation by using other analytical methods. 
+For this case study, a human/object detection system was designed to demonstrate the Traffic Period Analytics of consumers in a Home Care Store using CCTV footage (which can be part of an IoT network in a store) lasting 1.5 minutes. 
+
+This footfall analysis is designed to study the daily high and low traffic periods in the Home Care Store. This analysis acts as a baseline for further investigation by using other analytical methods. 
+
+Question is, how can one increase the sales of "selected items"?
 
 ## 2.1. Methodology
 
 ![image](https://user-images.githubusercontent.com/87763082/126786689-f709cdf9-b2a2-4ecf-9040-21f50e0fce92.png)
+
 ## 2.2. Results (From Working System)
 
-# 3. Novice Recommendation 
+# 3. General Recommendations
+
+Having a single system to gather data will not provide reliable analysis. Thus, it is important to expand on several IoT equipment that will allow the Home Care Store make directed marketing decisions to increase sales of "selected items". 
+
+![image](https://user-images.githubusercontent.com/87763082/126790990-2ac5a5f4-47a4-4010-b6bb-c3af88cb4f67.png)
+
+# 4. Novice Summary 
 
