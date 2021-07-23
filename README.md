@@ -8,7 +8,11 @@
 
 # 1. Introduction
 
-In-Store Foot Traffic (Footfall) Analytics for Retail Stores is a powerful data-driven market research mechanism that may be implemented to grow your retail business in any environment (eg. Central Business District (CBD), Cities, Towns, etc.).
+Have you ever wondered why retail stores like H&M, Pull & Bear and other brands have products laid out as you queue for check out? This is because of In-Store Foot Traffic (Footfall) Analytics! 
+
+![image](https://user-images.githubusercontent.com/87763082/126802970-8fceeaaf-1413-4e29-bf3b-c715c8098fc6.png)
+
+Footfall Analytics for Retail Stores is a powerful data-driven market research mechanism that may be implemented to grow your sales in any business environment (eg. Central Business District (CBD), Cities, Towns, etc.).
 
 Traditional methods to measure foot traffic which have been used in the past comprises of:
 1. Tally or Clicker Counting
@@ -53,8 +57,6 @@ Selected items - Items that have the least amount of sales on a monthly.
 Having a single system to gather data will not provide reliable analysis. Thus, it is important to expand on several IoT equipment that will allow the Home Care Store make directed marketing decisions to increase sales of "selected items". 
 
 Cloud device integration of IoT equipment is the way forward! 
-
-The demographic analysis that can be conducted can give us a clearer idea on where the "selected items" can be placed at the store.
 
 ![image](https://user-images.githubusercontent.com/87763082/126791566-2efacc75-d0c4-49ec-94c9-03cf7f111f6e.png)
 
