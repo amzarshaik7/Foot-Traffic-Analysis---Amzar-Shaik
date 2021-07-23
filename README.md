@@ -32,7 +32,7 @@ As mentioned there are several types of Footfall Analysis as listed:
 3. Traffic Period Analytics 
 4. Customer Purchase Analytics 
 
-For this case study, a human/object detection system was designed to demonstrate the Traffic Period Analytics of consumers in a Home Care Store using CCTV footage (which can be part of an IoT network in a store) lasting 1.5 minutes. 
+For this case study, a human/object detection system (Python Code) was designed to demonstrate the Traffic Period Analytics of consumers in a Home Care Store using CCTV footage (part of an IoT network in a store) lasting 1.5 minutes. 
 
 This footfall analysis is designed to study the daily high and low traffic periods in the Home Care Store. This analysis acts as a baseline for further investigation by using other analytical methods. 
 
