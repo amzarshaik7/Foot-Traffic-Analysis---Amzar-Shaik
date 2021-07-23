@@ -17,13 +17,22 @@ However, traditional methods do not mine granular data or provide a demographic 
 
 ## 1.1. Problem Statement 
 
-![image](https://user-images.githubusercontent.com/87763082/126679156-41d5c7d9-1bfb-4092-bcfe-c17770f792e1.png)
+![image](https://user-images.githubusercontent.com/87763082/126779794-d0438ad8-599f-4b0f-b970-36eeb7579b5e.png)
 
 ## 1.2. Objective 
 
 ![image](https://user-images.githubusercontent.com/87763082/126679042-8dbad9eb-b134-42f6-827d-81d6245d4db5.png)
 
 # 2. In-Store Retail Foot Traffic Analytics 
+As mentioned there are several types of Footfall Analysis as listed: 
+
+1. Zone Analytics 
+2. Dwell Time Analytics 
+3. Traffic Period Analytics 
+4. Customer Purchase Analytics 
+
+A human/object detection system was designed to demonstrate the Traffic Period Analytics of consumers in a Home Care Store using CCTV footage lasting 1.5 minutes. This footfall analysis is designed to study the daily high and low traffic periods in the Home Care Store. This analysis acts as a baseline for further investigation by using other analytical methods. 
+
 ## 2.1. Methodology
 
 ## 2.2. Working System
