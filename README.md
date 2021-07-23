@@ -8,25 +8,21 @@
 
 # 1. Introduction
 
-Have you ever wondered why retail stores like H&M, Pull & Bear and other brands have products laid out as you queue for check out? This is because of In-Store Foot Traffic (Footfall) Analytics! 
+Have you ever wondered why retail stores like H&M, Pull & Bear and other brands have products laid out as you queue for check out? This is because of In-Store Foot Traffic (Footfall) Analytics! A conscious decision to increase the number of sales as consumers proceed to check out.
 
-![image](https://user-images.githubusercontent.com/87763082/126802970-8fceeaaf-1413-4e29-bf3b-c715c8098fc6.png)
+![image](https://user-images.githubusercontent.com/87763082/126803209-29d938fb-684c-414b-9edc-625844d1b52b.png)
 
 Footfall Analytics for Retail Stores is a powerful data-driven market research mechanism that may be implemented to grow your sales in any business environment (eg. Central Business District (CBD), Cities, Towns, etc.).
 
-Traditional methods to measure foot traffic which have been used in the past comprises of:
-1. Tally or Clicker Counting
-2. Security and Cameras Systems
-
-However, traditional methods do not mine granular data or provide a demographic analysis which can be used by modern and robust Machine Learning Models to create a Collective Consumer Portrait!
+Robust Machine Learning Models are able to analyse granular data and provide a demographic analysis to create a Collective Consumer Portrait which is tailor-made for all your retail outlets across the nation!
 
 ## 1.1. Problem Statement 
 
-![image](https://user-images.githubusercontent.com/87763082/126785843-c5e4f5bd-61c8-4c9c-a159-35b8402a978e.png)
+![image](https://user-images.githubusercontent.com/87763082/126803910-a560984a-0a03-4275-a3f0-72f217f85233.png)
 
 ## 1.2. Objective 
 
-![image](https://user-images.githubusercontent.com/87763082/126788614-a63cb404-6976-4f8d-901a-0bf895addfb0.png)
+![image](https://user-images.githubusercontent.com/87763082/126803942-00d3c8e3-fc8b-42d9-b72c-e12e760edbb8.png)
 
 # 2. In-Store Retail Foot Traffic Analytics 
 As mentioned there are several types of Footfall Analysis as listed: 
