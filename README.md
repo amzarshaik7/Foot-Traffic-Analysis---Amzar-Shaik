@@ -22,7 +22,7 @@ Robust Machine Learning Models are able to analyse granular data and provide a d
 
 ## 1.2. Objective 
 
-![image](https://user-images.githubusercontent.com/87763082/126803942-00d3c8e3-fc8b-42d9-b72c-e12e760edbb8.png)
+![image](https://user-images.githubusercontent.com/87763082/126804361-7fcc916d-56b2-414a-a4dc-68b77146a9e8.png)
 
 # 2. In-Store Retail Foot Traffic Analytics 
 As mentioned there are several types of Footfall Analysis as listed: 
