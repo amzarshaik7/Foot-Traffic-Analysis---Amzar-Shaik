@@ -3,7 +3,7 @@
 # Table of Contents 
 1. Introduction 
 2. In-Store Retail Foot Traffic Analytics
-3. General Recommendation
+3. Recommendation and Conclusion
 
 # 1. Introduction
 
@@ -52,25 +52,25 @@ Question is, how can one increase the sales of "selected items"?
 
 ## 2.2. Results (From Working System)
 
-The human detection system designed on Python is able to count the number of people at the foyer area. Consumer activity is high between 11.12 am and 11.13 am. Consumers are spending most time at the foyer area next to the check out. 
+The human detection system designed on Python is able to count the number of people at the foyer area. Consumer activity is high between 11.12 am and 11.13 am at the foyer area. 
 
-https://user-images.githubusercontent.com/87763082/126860926-c5b817fb-cc36-41ce-8863-f6e90a1deec7.mp4
+https://user-images.githubusercontent.com/87763082/126865968-8d296d13-1d23-4aba-8ce4-8f1e077ee778.mp4
 
 The Python Code can be refined further to improve the following: 
 1. Distinguish the difference between human and object
 2. Avoid multiple detection of the same person/consumer
-3. Speed of video 
+3. Increase speed of CCTV Footage  
 
-# 3. Recommendations
+# 3. Recommendation and Conclusion
 
 The human detection system designed is a great tool to study the traffic rate during operational hours. The analytics has provided a basis to strategize the sale of "selected items" in Section 3.1.
 
-## 3.1. How do we increase the sale of "selected items"?
+## 3.1. Recommendation - How do we increase the sale of "selected items"?
 1. Place boxes with "selected items" to the left of the entrance during high traffic period. 
 2. Consumers have the tendency to look left as they enter the store. 
 3. This will encourage the consumers to buy "selected items".
 
-## 3.2. Further Improvments 
+## 3.2. Conclusion - Further Improvments
 Integration of IoT equipment for data extraction and analysis is the way forward! 
 
 The integration of the selected analytics as shown in diagram below, has been recommended specifically for retail stores. The data that can be gathered into a database (Cloud, API, etc.) with the inclusion of:
