@@ -63,14 +63,13 @@ The Python Code can be refined further to improve the following:
 
 # 3. Recommendation and Conclusion
 
-The human detection system designed is a great tool to study the traffic rate during operational hours. The analytics has provided a basis to strategize the sale of "selected items" in Section 3.1.
+The human detection system designed is a great tool to study the traffic rate during operational hours. The analytics has provided a basis to strategize the sale of "selected items" as listed:
 
-## 3.1. Recommendation - How do we increase the sale of "selected items"?
 1. Place boxes with "selected items" to the left of the entrance during high traffic period. 
 2. Consumers have the tendency to look left as they enter the store. 
 3. This will encourage the consumers to buy "selected items".
 
-## 3.2. Conclusion - Further Improvments
+# 4. Conclusion - Further Improvments
 Integration of IoT equipment for data extraction and analysis is the way forward! 
 
 The integration of the selected analytics as shown in diagram below, has been recommended specifically for retail stores. The data that can be gathered into a database (Cloud, API, etc.) with the inclusion of:
