@@ -48,7 +48,7 @@ Selected items - Items that have the least amount of sales on a monthly.
 
 ## 2.1. Methodology
 
-![image](https://user-images.githubusercontent.com/87763082/126859612-6ec7990e-c8ac-4632-b41e-b7b56208c6cc.png)
+![image](https://user-images.githubusercontent.com/87763082/126859741-7a03911a-c454-46b1-b3d3-2d65e1b7892c.png)
 
 ## 2.2. Results (From Working System)
 
