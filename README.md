@@ -57,7 +57,7 @@ The human detection system designed on Python is able to count the number of peo
 
 https://user-images.githubusercontent.com/87763082/126860926-c5b817fb-cc36-41ce-8863-f6e90a1deec7.mp4
 
-The Python Code can be refiined further to improve the following: 
+The Python Code can be refined further to improve the following: 
 1. Distinguish the difference between human and object
 2. Avoid multiple detection of the same person/consumer
 3. Speed of video 
