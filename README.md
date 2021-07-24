@@ -3,7 +3,8 @@
 # Table of Contents 
 1. Introduction 
 2. In-Store Retail Foot Traffic Analytics
-3. Recommendation and Conclusion
+3. Recommendation
+4. Conclusion - Further Improvements
 
 # 1. Introduction
 
@@ -61,7 +62,7 @@ The Python Code can be refined further to improve the following:
 2. Avoid multiple detection of the same person/consumer
 3. Increase speed of CCTV Footage  
 
-# 3. Recommendation and Conclusion
+# 3. Recommendation
 
 The human detection system designed is a great tool to study the traffic rate during operational hours. The analytics has provided a basis to strategize the sale of "selected items" as listed:
 
@@ -69,10 +70,10 @@ The human detection system designed is a great tool to study the traffic rate du
 2. Consumers have the tendency to look left as they enter the store. 
 3. This will encourage the consumers to buy "selected items".
 
-# 4. Conclusion - Further Improvments
-Integration of IoT equipment for data extraction and analysis is the way forward! 
+# 4. Conclusion - Further Improvements
+Integration (Cloud, API, etc.) of IoT equipment for data extraction and analysis is the way forward! 
 
-The integration of the selected analytics as shown in diagram below, has been recommended specifically for retail stores. The data that can be gathered into a database (Cloud, API, etc.) with the inclusion of:
+The integration of the selected analytics as shown in diagram below, has been recommended specifically for retail stores. The data that can be gathered into a database with the inclusion of:
 1. Thermal Detection System - Understand the zone consumers spend the most time at and allow us to place the "selected items".
 2. Customer Relationship Management (CRM) System - Understand the stand out purchases and place "selected items" close to the highest bought items.
 
