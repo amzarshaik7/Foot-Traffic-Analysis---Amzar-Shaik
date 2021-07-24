@@ -28,9 +28,9 @@ An unnamed retail client have requested Maxis to understand the foot traffic of 
 
 ## 1.3 Assumptions 
 
+the following is a list of assumptions made to perform the case study: 
 1. Unbudgeted project
-2. Problem assumed to be; increase the sales of "selected items"
-   selected items - Items that have the least amount of sales on a monthly 
+2. Problem assumed to be; increase the sales of "selected items" (Items that have the least amount of sales on a monthly) 
 3. A sample dataset (mp4 video) at a Home Care Store is used for analysis 
 
 # 2. In-Store Retail Foot Traffic Analytics 
@@ -53,13 +53,30 @@ Question is, how can one increase the sales of "selected items"?
 
 ## 2.2. Results (From Working System)
 
+The human detection system designed on Python is able to count the number of people at the foyer area. Consumer activity is high between 11.12 am and 11.13 am. Consumers are spending most time at the foyer area next to the check out. 
+
 https://user-images.githubusercontent.com/87763082/126860926-c5b817fb-cc36-41ce-8863-f6e90a1deec7.mp4
 
-# 3. General Recommendations
+The Python Code can be refiined further to improve the following: 
+1. Distinguish the difference between human and object
+2. Avoid multiple detection of the same person/consumer
+3. Speed of video 
 
-Having a single system to gather data will not provide reliable analysis. Thus, it is important to expand on several IoT equipment that will allow the Home Care Store make directed marketing decisions to increase sales of "selected items". 
+# 3. Recommendations
 
+The human detection system designed is a great tool to study the traffic rate during operational hours. The analytics has provided a basis to strategize the sale of "selected items" in Section 3.1.
+
+## 3.1. How do we increase the sale of "selected items"?
+1. Place boxes with "selected items" to the left of the entrance during high traffic period. 
+2. Consumers have the tendency to look left as they enter the store. 
+3. This will encourage the consumers to buy "selected items".
+
+## 3.2. Further Improvments 
 Integration (Cloud, API, etc.) of IoT equipment for data extraction and analysis is the way forward! 
+
+The integration of the selected analytics as shown in diagram below, has been recommended specifically for retail stores. The data that can be gathered with the inclusion of:
+1. Thermal Detection System - Understand the zone consumers spend the most time at and allow us to place the "selected items".
+2. Customer Relationship Management (CRM) System - Understand the stand out purchases and place "selected items" close to the highest bought items.
 
 ![image](https://user-images.githubusercontent.com/87763082/126858833-254966e1-7fa4-480b-8dc7-b90cd95e6648.png)
 
