@@ -52,9 +52,9 @@ Selected items - Items that have the least amount of sales on a monthly.
 
 Having a single system to gather data will not provide reliable analysis. Thus, it is important to expand on several IoT equipment that will allow the Home Care Store make directed marketing decisions to increase sales of "selected items". 
 
-Cloud device integration of IoT equipment is the way forward! 
+ Integration (Cloud, API of IoT equipment is the way forward! 
 
-![image](https://user-images.githubusercontent.com/87763082/126791566-2efacc75-d0c4-49ec-94c9-03cf7f111f6e.png)
+![image](https://user-images.githubusercontent.com/87763082/126858833-254966e1-7fa4-480b-8dc7-b90cd95e6648.png)
 
 # 4. Novice Summary 
 
