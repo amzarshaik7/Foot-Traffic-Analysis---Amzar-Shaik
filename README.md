@@ -16,13 +16,13 @@ Footfall Analytics for Retail Stores is a powerful data-driven market research m
 
 Robust Machine Learning Models are able to analyse granular data and provide a demographic analysis to create a Collective Consumer Portrait which is tailor-made for all your retail outlets across the nation!
 
-## 1.1. Problem Statement 
+## 1.1. Problem Statement
 
-![image](https://user-images.githubusercontent.com/87763082/126803910-a560984a-0a03-4275-a3f0-72f217f85233.png)
+![image](https://user-images.githubusercontent.com/87763082/126859625-03b22c9e-ef5c-4bf9-b3ae-9ebb51157fbb.png)
 
 ## 1.2. Objective 
 
-![image](https://user-images.githubusercontent.com/87763082/126804361-7fcc916d-56b2-414a-a4dc-68b77146a9e8.png)
+![image](https://user-images.githubusercontent.com/87763082/126859593-6a67a4a5-8161-4511-b4e0-b9d6ac1627c7.png)
 
 # 2. In-Store Retail Foot Traffic Analytics 
 As mentioned there are several types of Footfall Analysis as listed: 
@@ -44,7 +44,7 @@ Selected items - Items that have the least amount of sales on a monthly.
 
 ## 2.1. Methodology
 
-![image](https://user-images.githubusercontent.com/87763082/126786689-f709cdf9-b2a2-4ecf-9040-21f50e0fce92.png)
+![image](https://user-images.githubusercontent.com/87763082/126859612-6ec7990e-c8ac-4632-b41e-b7b56208c6cc.png)
 
 ## 2.2. Results (From Working System)
 
