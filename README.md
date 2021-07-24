@@ -22,7 +22,11 @@ Robust Machine Learning Models are able to analyse granular data and provide a d
 
 ## 1.2. Objective 
 
-![image](https://user-images.githubusercontent.com/87763082/126859593-6a67a4a5-8161-4511-b4e0-b9d6ac1627c7.png)
+![image](https://user-images.githubusercontent.com/87763082/126859703-a8159899-0caf-4ac1-a779-82fe1dbb1add.png)
+
+## 1.3 Assumptions 
+
+1. Unbudgeted project
 
 # 2. In-Store Retail Foot Traffic Analytics 
 As mentioned there are several types of Footfall Analysis as listed: 
@@ -52,7 +56,7 @@ Selected items - Items that have the least amount of sales on a monthly.
 
 Having a single system to gather data will not provide reliable analysis. Thus, it is important to expand on several IoT equipment that will allow the Home Care Store make directed marketing decisions to increase sales of "selected items". 
 
- Integration (Cloud, API of IoT equipment is the way forward! 
+ Integration (Cloud, API, etc.) of IoT equipment is the way forward! 
 
 ![image](https://user-images.githubusercontent.com/87763082/126858833-254966e1-7fa4-480b-8dc7-b90cd95e6648.png)
 
