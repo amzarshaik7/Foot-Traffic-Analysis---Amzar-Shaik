@@ -72,11 +72,13 @@ The human detection system designed is a great tool to study the traffic rate du
 3. This will encourage the consumers to buy "selected items".
 
 ## 3.2. Further Improvments 
-Integration (Cloud, API, etc.) of IoT equipment for data extraction and analysis is the way forward! 
+Integration of IoT equipment for data extraction and analysis is the way forward! 
 
-The integration of the selected analytics as shown in diagram below, has been recommended specifically for retail stores. The data that can be gathered with the inclusion of:
+The integration of the selected analytics as shown in diagram below, has been recommended specifically for retail stores. The data that can be gathered into a database (Cloud, API, etc.) with the inclusion of:
 1. Thermal Detection System - Understand the zone consumers spend the most time at and allow us to place the "selected items".
 2. Customer Relationship Management (CRM) System - Understand the stand out purchases and place "selected items" close to the highest bought items.
+
+The integration of the listed systems will provide a better demographic analysis for the retail stores across the nation to make directed marketing decisions to increase sales of any products. 
 
 ![image](https://user-images.githubusercontent.com/87763082/126858833-254966e1-7fa4-480b-8dc7-b90cd95e6648.png)
 
