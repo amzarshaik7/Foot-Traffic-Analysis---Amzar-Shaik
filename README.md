@@ -17,7 +17,7 @@ Robust Machine Learning Models are able to analyse granular data and provide a d
 
 ## 1.1. Problem Statement
 
-An unnamed retail client have requested Maxis to understand the foot traffic of shoppers in their retail stores across the nation. The analysis is done with the use of IoT equipment and data analysis. 
+An unnamed retail client has engaged Maxis to understand the foot traffic of shoppers in their retail stores across the nation. The analysis is done with the use of IoT equipment and data analysis. 
 
 ![image](https://user-images.githubusercontent.com/87763082/126859625-03b22c9e-ef5c-4bf9-b3ae-9ebb51157fbb.png)
 
@@ -42,7 +42,7 @@ As mentioned there are several types of Footfall Analysis as listed:
 
 For this case study, a human detection system (Python Code) was designed to demonstrate the Traffic Period Analytics of consumers in a Home Care Store using CCTV footage (part of an IoT network in a store) lasting ~ 1.5 minutes. 
 
-This footfall analysis is designed to study the daily high and low traffic periods in the Home Care Store. This analysis acts as a baseline for further improvment of the footfall analysis.
+This footfall analysis is designed to study the daily high and low traffic periods in the Home Care Store. This analysis acts as a baseline for further improvement of the footfall analysis.
 
 Question is, how can one increase the sales of "selected items"?
 
