@@ -18,6 +18,8 @@ Robust Machine Learning Models are able to analyse granular data and provide a d
 
 ## 1.1. Problem Statement
 
+An unnamed retail client have requested Maxis to understand the foot traffic of shoppers in their retail stores across the nation. The analysis is done with the use of IoT equipment and data analysis. 
+
 ![image](https://user-images.githubusercontent.com/87763082/126859625-03b22c9e-ef5c-4bf9-b3ae-9ebb51157fbb.png)
 
 ## 1.2. Objective 
@@ -27,6 +29,9 @@ Robust Machine Learning Models are able to analyse granular data and provide a d
 ## 1.3 Assumptions 
 
 1. Unbudgeted project
+2. Problem assumed to be; increase the sales of "selected items"
+   selected items - Items that have the least amount of sales on a monthly 
+3. A sample dataset (mp4 video) at a Home Care Store is used for analysis 
 
 # 2. In-Store Retail Foot Traffic Analytics 
 As mentioned there are several types of Footfall Analysis as listed: 
@@ -36,15 +41,11 @@ As mentioned there are several types of Footfall Analysis as listed:
 3. Traffic Period Analytics 
 4. Customer Purchase Analytics 
 
-For this case study, a human/object detection system (Python Code) was designed to demonstrate the Traffic Period Analytics of consumers in a Home Care Store using CCTV footage (part of an IoT network in a store) lasting 1.5 minutes. 
+For this case study, a human detection system (Python Code) was designed to demonstrate the Traffic Period Analytics of consumers in a Home Care Store using CCTV footage (part of an IoT network in a store) lasting ~ 1.5 minutes. 
 
-This footfall analysis is designed to study the daily high and low traffic periods in the Home Care Store. This analysis acts as a baseline for further investigation by using other analytical methods. 
+This footfall analysis is designed to study the daily high and low traffic periods in the Home Care Store. This analysis acts as a baseline for further improvment of the footfall analysis.
 
 Question is, how can one increase the sales of "selected items"?
-
-What are "selected items"? 
-
-Selected items - Items that have the least amount of sales on a monthly. 
 
 ## 2.1. Methodology
 
@@ -52,11 +53,13 @@ Selected items - Items that have the least amount of sales on a monthly.
 
 ## 2.2. Results (From Working System)
 
+https://user-images.githubusercontent.com/87763082/126860926-c5b817fb-cc36-41ce-8863-f6e90a1deec7.mp4
+
 # 3. General Recommendations
 
 Having a single system to gather data will not provide reliable analysis. Thus, it is important to expand on several IoT equipment that will allow the Home Care Store make directed marketing decisions to increase sales of "selected items". 
 
- Integration (Cloud, API, etc.) of IoT equipment is the way forward! 
+Integration (Cloud, API, etc.) of IoT equipment for data extraction and analysis is the way forward! 
 
 ![image](https://user-images.githubusercontent.com/87763082/126858833-254966e1-7fa4-480b-8dc7-b90cd95e6648.png)
 
