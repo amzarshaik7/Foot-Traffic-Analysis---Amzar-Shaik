@@ -17,7 +17,7 @@ hog = cv2.HOGDescriptor()
 hog.setSVMDetector(cv2.HOGDescriptor_getDefaultPeopleDetector())
 
 # Please identify your footage path
-path = r"C:\100 Job Applications\2. Applied Companies\2021\Maxis Graduate Program\Footfall Analytics - Python\HomecareStore3.mp4"
+path = r"C:\HomecareStore3.1.mp4"
 
 cap = cv2.VideoCapture(path)
 frameTime = 25
