@@ -4,7 +4,6 @@
 1. Introduction 
 2. In-Store Retail Foot Traffic Analytics
 3. General Recommendation
-4. Novice Summary 
 
 # 1. Introduction
 
@@ -81,6 +80,3 @@ The integration of the selected analytics as shown in diagram below, has been re
 The integration of the listed systems will provide a better demographic analysis for the retail stores across the nation to make directed marketing decisions to increase sales of any products. 
 
 ![image](https://user-images.githubusercontent.com/87763082/126858833-254966e1-7fa4-480b-8dc7-b90cd95e6648.png)
-
-# 4. Novice Summary 
-
