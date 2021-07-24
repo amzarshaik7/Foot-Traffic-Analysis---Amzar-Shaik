@@ -28,7 +28,7 @@ An unnamed retail client have requested Maxis to understand the foot traffic of 
 
 ## 1.3 Assumptions 
 
-the following is a list of assumptions made to perform the case study: 
+The following is a list of assumptions made to perform the case study: 
 1. Unbudgeted project
 2. Problem assumed to be; increase the sales of "selected items" (Items that have the least amount of sales on a monthly) 
 3. A sample dataset (mp4 video) at a Home Care Store is used for analysis 
